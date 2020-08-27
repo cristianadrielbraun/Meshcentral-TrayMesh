@@ -48,7 +48,7 @@ This is made on [CodeTyphon](https://www.pilotlogic.com/sitejoom/index.php/wiki/
 
    ------------
 
-## SPANISH
+## ESPAÑOL
 
 	ESTA VERSIÓN ES UNA PRUEBA DE CONCEPTO. ES TOTALMENTE FUNCIONAL, PERO ALEJADA DE LA IDEA FINAL. 
 	POR AHORA, ES TAN SOLO UN ARCHIVO BINARIO. SOLO ESO (+ 2 DLL EN LA VERSIÓN DE WINDOWS).
