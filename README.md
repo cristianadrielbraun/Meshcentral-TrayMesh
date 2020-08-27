@@ -7,6 +7,8 @@ Deserved Tray Icon for MeshCentral Agent
 	HOPEFULLY THIS WILL EVOLVE IN A WELL INTEGRATED PLUGIN FOR MESHCENTRAL, AND INSTALLER, AND A FEW CUSTOMIZABLE OPTIONS.
 	
 	
+This is made on [CodeTyphon](https://www.pilotlogic.com/sitejoom/index.php/wiki/84-wiki/codetyphon-studio/72-codetyphon-about), which is actually a fork of [Lazarus](https://www.lazarus-ide.org/), being both IDEs for Free Pascal (A programming language that I found great)
+
 **Features:**
 
    * Shows System name (in an intent to provide some info to the customer on attended remote support. You know, teamviewer style)
