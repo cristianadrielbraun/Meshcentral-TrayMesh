@@ -15,7 +15,7 @@ This is made on [CodeTyphon](https://www.pilotlogic.com/sitejoom/index.php/wiki/
 
 **Features:**
 
-   * Shows System name (in an intent to provide some info to the customer on attended remote support. You know, teamviewer style)
+   * Shows System name (in an attempt to provide some info to the customer on attended remote support. You know, teamviewer style)
 
    * Shows Public IP (same)
 
@@ -61,7 +61,7 @@ Este programa fue hecho en [CodeTyphon](https://www.pilotlogic.com/sitejoom/inde
 
 **Funciones:**
 
-   * Muestra nombre del sistema(En un intento de proveer información al cliente en sesiones de atención remota. Simulando la idea de Teamviewer o similares
+   * Muestra nombre del sistema (En un intento de proveer información al cliente en sesiones de atención remota. Simulando la idea de Teamviewer o similares)
 
    * Muestra la IP pública (Misma idea que el punto anterior)
 
